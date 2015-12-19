@@ -1,0 +1,15 @@
+<phpunit bootstrap="./bootstrap.php" colors="true">
+    <testsuites>
+        <testsuite name="get_header Test Suite">
+            <directory>./get_headerTest/</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory>../src/get_header/</directory>
+            <exclude>
+                <directory>../vendor/</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

@@ -1,0 +1,15 @@
+{
+    "name": "yakeing/get_header",
+    "description": "get_header test",
+    "license": "MPL2.0",
+    "homepage": "https://github.com/yakeing/get_header",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "get_header": "src/",
+            "Requests": "library/"
+        }
+    }
+}
