@@ -1,11 +1,21 @@
 # GET HTTP HEADER
 ----------
 
-Travis CI [![travis-ci](https://api.travis-ci.org/yakeing/get_header.svg)](https://travis-ci.org/yakeing/get_header/caches)
+[![travis-ci](https://api.travis-ci.org/yakeing/get_header.svg)](https://travis-ci.org/yakeing/get_header/caches) Travis CI
 
-[![get header](http://oauth.sinaapp.com/svg/image.svg?w=100_35_71_85_29&k=get%20header&v=ALL)](https://github.com/yakeing/get_header) This function is similar to the get_headers function
 
-test
+This function is similar to the get_headers function
+
+Author [yakeing](http://weibo.com/yakeing)
+
+[![image](https://oauth.sinaapp.com/svg/4D4D4D/License/F66000/MPL2.0/image.svg)](https://github.com/yakeing/get_header/blob/master/LICENSE)
+
+[![image](https://oauth.sinaapp.com/svg/4D4D4D/Language/007EC6/PHP/image.svg)](https://github.com/yakeing/get_header/tree/master/src/get_header)
+
+[![image](https://oauth.sinaapp.com/svg/4D4D4D/Version/97CA00/1.2/image.svg)](https://github.com/yakeing/get_header)
+
+### test
+- [x] example
 --------
 ```php
 	  include('get_header.php');
@@ -14,7 +24,8 @@ test
 	  var_dump($GetHeader);
 ```	
 	
-outcome
+### outcome
+- [x] example
 --------
 ```php
 	Array
