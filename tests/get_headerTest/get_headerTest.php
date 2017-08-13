@@ -1,4 +1,4 @@
-
+<?php
 class get_headerTest extends PHPUnit_Framework_TestCase{
 
   public function testGet(){
@@ -7,3 +7,4 @@ class get_headerTest extends PHPUnit_Framework_TestCase{
     $this->assertEquals(200, $GetHeader['code']);
   }
 }
+?>
