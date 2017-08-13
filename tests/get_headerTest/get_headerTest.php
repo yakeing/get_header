@@ -1,3 +1,4 @@
+<?php
 class get_headerTest extends PHPUnit_Framework_TestCase
 {
 
