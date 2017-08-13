@@ -6,7 +6,6 @@ php:
   - 7.0
 
 before_script:
-  - phpenv config-rm xdebug.ini
-  - composer install --no-interaction
+  - composer install
   - cd tests
 script: phpunit -v
