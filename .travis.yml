@@ -11,5 +11,5 @@ matrix:
 before_install:
   - phpenv config-rm xdebug.ini
   - composer self-update && composer install --no-interaction
-  - cd tests
-script: phpunit -v
+
+script: bin/phpunit -v
