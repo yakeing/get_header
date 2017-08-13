@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "get_header": "src/",
             "Requests": "library/"
         }
