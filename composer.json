@@ -17,8 +17,7 @@
         }
     },
     "require": {
-        "php": ">=5.3.3",
-        "another-vendor/package": "1.*"
+        "php": ">=5.3.3"
     },
     "extra":{
         "branch-alias":{
