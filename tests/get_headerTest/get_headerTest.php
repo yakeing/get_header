@@ -1,6 +1,6 @@
 
-class get_headerTest extends PHPUnit_Framework_TestCase{
-  
+//class get_headerTest extends PHPUnit_Framework_TestCase{
+class get_headerTest extends TestCase
   public function testGet(){
     $url = "https://github.com/yakeing/get_header";
     $GetHeader = get_header::curlHeader($url);
