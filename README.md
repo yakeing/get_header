@@ -96,16 +96,16 @@ Donate
 Your donation makes CODE better.
 
  Bitcoin (比特币赞助)
- 
+
  1Ff2hTfr4EioWv2ZDLKTedUiF9wBBVYSbU
- 
+
  ![Bitcoin](https://oauth.applinzi.com/QR/230/bitcoin%3a1Ff2hTfr4EioWv2ZDLKTedUiF9wBBVYSbU/Bitcoin.png)
 
  WeChat (微信赞助)
- 
+
  ![WeChat](https://oauth.applinzi.com/QR/230/wxp%3a%7C%7Cf2f0SOGAUjQ1ALzigoyN7nW8tK68D2oeU3YO/WeChat.png)
 
  Alipay (支付宝赞助)
 
  ![Alipay](https://oauth.applinzi.com/QR/230/HTTPS%3a%7C%7CQR.ALIPAY.COM%7CTSX082709YGHVXYUQCWKD6/Alipay.png)
- 
+
