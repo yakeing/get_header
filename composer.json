@@ -1,27 +1,27 @@
 {
-	"name": "yakeing/get_header",
-	"description": "This function is similar to the get_headers function",
-	"keywords": ["get_headers", "CURL", "http", "get"],
-	"homepage": "https://github.com/yakeing/get_header",
-	"type": "symfony-bundle",
-	"license": "MPL-2.0",
-	"authors": [
-		{
-			"name": "yakeing",
-			"homepage": "http://weibo.com/yakeing"
-		}
-	],
-	"autoload": {
-		"psr-0": {
-			"get_header": "src/"
-		}
-	},
-	"require": {
-		"php": ">=5.3.3"
-	},
-	"extra":{
-		"branch-alias":{
-			"dev-master": "1.x-dev"
-		}
-	}
+  "name": "yakeing/get_header",
+  "description": "This function is similar to the get_headers function",
+  "keywords": ["get_headers", "CURL", "http", "get"],
+  "homepage": "https://github.com/yakeing/get_header",
+  "type": "symfony-bundle",
+  "license": "MPL-2.0",
+  "authors": [
+    {
+      "name": "yakeing",
+      "homepage": "http://weibo.com/yakeing"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "get_header": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "extra":{
+    "branch-alias":{
+      "dev-master": "1.x-dev"
+    }
+  }
 }
