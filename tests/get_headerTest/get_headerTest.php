@@ -1,8 +1,5 @@
 
 class get_headerTest extends PHPUnit_Framework_TestCase{
-
-  public function setUp(){
-  }
   
   public function testGet(){
     $url = "https://github.com/yakeing/get_header";
