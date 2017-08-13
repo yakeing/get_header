@@ -1,12 +1,12 @@
 <?php
-class get_headerTest extends PHPUnit_Framework_TestCase
-{
+class get_headerTest extends PHPUnit_Framework_TestCase{
 
   public function testGet(){
     $url = "https://github.com/yakeing/get_header";
-    $GetHeader = get_header::curlHeader($url);
-    //$this->assertEquals(200, $GetHeader['code']);
-    $this->assertTrue(200, $GetHeader['code']);
+    $result = get_header::curlHeader($url);
+    $this->assertInternalType("array", $result);
+    //$this->assertEquals(200, $result['code']);
+    $this->assertTrue(200, $result['code']);
   }
 
 }
