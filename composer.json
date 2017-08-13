@@ -20,6 +20,9 @@
         "php": ">=5.3.3",
         "lib-curl": "*"
     },
+    "config": {
+        "bin-dir": "bin"
+    },
     "extra":{
         "branch-alias":{
             "dev-master": "1.x-dev"
