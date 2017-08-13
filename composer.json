@@ -17,7 +17,8 @@
         }
     },
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "lib-curl": "*"
     },
     "extra":{
         "branch-alias":{
