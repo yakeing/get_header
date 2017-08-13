@@ -6,7 +6,7 @@
   */
 class get_header{
     //curl
-    public static function curlHeader($url){
+    public function curlHeader($url){
         $options = array(
             CURLOPT_HEADER => true,
             CURLOPT_NOBODY => true,
