@@ -4,6 +4,7 @@
   * This function is similar to the get_headers function
   * @Author weibo.com/yakeing
   */
+tset->'www'
 class get_header{
     //curl
     public static function curlHeader($url){
