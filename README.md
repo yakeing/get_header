@@ -18,6 +18,16 @@ This function is similar to the get_headers function
 
 BY: [yakeing](http://weibo.com/yakeing)
 
+### Installation
+
+Use [Composer](https://getcomposer.org) to install the library.
+
+```
+
+    $ composer require yakeing/fsockopen
+
+```
+
 ### test
 - [x] example
 --------
