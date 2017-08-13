@@ -6,6 +6,6 @@ php:
   - 7.0
 
 before_script:
-  - composer require yakeing/fsockopen
+  - composer install --no-interaction
   - cd tests
 script: phpunit -v
