@@ -11,6 +11,7 @@ This function is similar to the get_headers function
 
 [![Version](http://img.shields.io/packagist/v/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
+[![size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://packagist.org/packages/yakeing/get_header)
 
 [![Version](https://oauth.applinzi.com/SvgLabel/4D4D4D/Version/97CA00/1.2/image.svg)](https://packagist.org/packages/yakeing/get_header)
 [![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://packagist.org/packages/yakeing/get_header)
