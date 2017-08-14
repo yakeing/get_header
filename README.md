@@ -32,10 +32,11 @@ Use [Composer](https://getcomposer.org) to install the library.
 - [x] example
 --------
 ```php
-      include('get_header.php');
+      include('GetHeader.php');
       $url = "https://github.com/yakeing/get_header";
-      $GetHeader = get_header::curlHeader($url);
-      var_dump($GetHeader);
+      $GetHeader = new GetHeader();
+      $Header = GetHeader->curlHeader($url);
+      var_dump($Header);
 ```
 
 ### outcome
