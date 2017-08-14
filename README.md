@@ -5,19 +5,21 @@ This function is similar to the get_headers function
 
 #### Travis CI
 
-[![travis-ci](https://api.travis-ci.org/yakeing/get_header.svg)](https://travis-ci.org/yakeing/get_header)
+[![Travis-ci](https://api.travis-ci.org/yakeing/get_header.svg)](https://travis-ci.org/yakeing/get_header)
 
 #### Packages
 
 [![Version](http://img.shields.io/packagist/v/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
-[![size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://packagist.org/packages/yakeing/get_header)
 
-### Github
+#### Github
 
-[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/get_header)
-[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/get_header)
+[![Size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://packagist.org/packages/yakeing/get_header)
 [![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
+
+[![Downloads](https://img.shields.io/github/downloads/yakeing/get_header/total.svg)](https://github.com/yakeing/get_header)
+[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/get_header)
+[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/get_header)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
