@@ -1,6 +1,6 @@
 <?php
 class get_headerTest extends PHPUnit_Framework_TestCase{
-
+var_dump($loader);
   public function testGet(){
     $url = "https://github.com/yakeing/get_header";
     $Header = get_header::curlHeader($url);
