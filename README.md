@@ -13,10 +13,11 @@ This function is similar to the get_headers function
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 [![size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://packagist.org/packages/yakeing/get_header)
 
-[![Version](https://oauth.applinzi.com/SvgLabel/4D4D4D/Version/97CA00/1.2/image.svg)](https://packagist.org/packages/yakeing/get_header)
-[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://packagist.org/packages/yakeing/get_header)
-[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/007EC6/MPL-2.0/image.svg)](https://packagist.org/packages/yakeing/get_header)
-[![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
+### Github
+
+[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/get_header)
+[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/get_header)
+[![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
