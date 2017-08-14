@@ -8,10 +8,8 @@
     <filter>
         <whitelist>
             <directory suffix=".php">../src/get_header</directory>
-            <file>../src/get_header</file>
             <exclude>
                 <directory>../vendor</directory>
-                <file>../vendor</file>
             </exclude>
         </whitelist>
     </filter>

@@ -1,6 +1,10 @@
 <?php
 //class get_headerTest extends PHPUnit_Framework_TestCase{
+namespace get_headerTest;
+
+use get_header;
 use PHPUnit\Framework\TestCase;
+
 class get_headerTest extends TestCase{
 
   public function testGet(){
