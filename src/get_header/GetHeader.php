@@ -4,8 +4,8 @@
   * This function is similar to the get_headers function
   * @Author weibo.com/yakeing
   */
-namespace GetHeader;
-class get_header{
+namespace get_header;
+class GetHeader{
     //curl
     public static function curlHeader($url){
         $options = array(
