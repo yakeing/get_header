@@ -5,7 +5,7 @@
   * @Author weibo.com/yakeing
   */
 namespace get_header;
-class GetHeader{
+class get_header{
     //curl
     public static function curlHeader($url){
         $options = array(
