@@ -16,6 +16,7 @@ This function is similar to the get_headers function
 [![Version](https://oauth.applinzi.com/SvgLabel/4D4D4D/Version/97CA00/1.2/image.svg)](https://packagist.org/packages/yakeing/get_header)
 [![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://packagist.org/packages/yakeing/get_header)
 [![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/007EC6/MPL-2.0/image.svg)](https://packagist.org/packages/yakeing/get_header)
+[![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
@@ -25,7 +26,7 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ```
 
-    $ composer require yakeing/fsockopen
+    $ composer require yakeing/get_header
 
 ```
 
