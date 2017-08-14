@@ -7,7 +7,7 @@ This function is similar to the get_headers function
 
 [![Travis-ci](https://api.travis-ci.org/yakeing/get_header.svg)](https://travis-ci.org/yakeing/get_header)
 
-#### Packages
+#### Packagist
 
 [![Version](http://img.shields.io/packagist/v/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
