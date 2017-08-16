@@ -23,7 +23,7 @@ This function is similar to the get_headers function
 
 BY: [yakeing](http://weibo.com/yakeing)
 
-### Installation
+#### Installation
 
 Use [Composer](https://getcomposer.org) to install the library.
 
@@ -33,9 +33,9 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ```
 
-### test
+#### test
+
 - [x] example
---------
 ```php
       include('GetHeader.php');
       $url = "https://github.com/yakeing/get_header";
@@ -44,9 +44,9 @@ Use [Composer](https://getcomposer.org) to install the library.
       var_dump($Header);
 ```
 
-### outcome
+#### outcome
+
 - [x] example
---------
 ```php
     Array
     (
