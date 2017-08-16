@@ -22,4 +22,4 @@ after_script:
   - git config --global user.email "yakeing@gmail.com"
   - git tag v1.0
   - git show v1.0
-  - git push --force --quiet "https://${TOKEN}@github.com/yakeing/get_header.git" master:master
+  - git push --force --tags --quiet "https://${TOKEN}@github.com/yakeing/get_header.git" master:master
