@@ -13,7 +13,7 @@ before_install:
   - composer self-update && composer install --no-interaction
   - cd tests
 
-script: phpunit -v
+script: phpunit --stderr
 after_script:
   - pwd
   - cd ../
