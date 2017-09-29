@@ -18,8 +18,8 @@ This function is similar to the get_headers function
 [![Downloads](https://img.shields.io/github/downloads/yakeing/get_header/total.svg)](https://github.com/yakeing/get_header)
 [![Size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://github.com/yakeing/get_header)
 [![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
-[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/get_header)
-[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/get_header)
+[![Language](https://oauth.applinzi.com/Badge/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/get_header)
+[![License](https://oauth.applinzi.com/Badge/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/get_header)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
