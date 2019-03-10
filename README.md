@@ -10,18 +10,16 @@ This function is similar to the get_headers function
 
 ### Packagist
 
-[![Version](http://img.shields.io/packagist/v/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
+[![Version](http://img.shields.io/packagist/v/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header/releases)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/get_header.svg)](https://packagist.org/packages/yakeing/get_header)
 
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/get_header/total.svg)](https://github.com/yakeing/get_header)
-[![Size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://github.com/yakeing/get_header)
-[![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
-[![Language](https://img.shields.io/github/license/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
-[![Language](https://img.shields.io/github/languages/top/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
-
-BY: [yakeing](http://weibo.com/yakeing)
+[![Size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://github.com/yakeing/get_header/blob/master/src/get_header/GetHeader.php)
+[![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header/releases)
+[![Language](https://img.shields.io/github/license/yakeing/get_header.svg)](https://github.com/yakeing/get_header/blob/master/LICENSE)
+[![Php](https://img.shields.io/github/languages/top/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
 
 ### Installation
 
@@ -114,3 +112,10 @@ Your donation makes CODE better.
  Alipay (支付宝赞助)
 
  ![Alipay](https://raw.githubusercontent.com/yakeing/Content/master/Donate/Alipay.png)
+ 
+Author
+---
+
+weibo: [yakeing](https://weibo.com/yakeing)
+
+twitter: [yakeing](https://twitter.com/yakeing)
