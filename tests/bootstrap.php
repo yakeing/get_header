@@ -7,4 +7,4 @@ if (file_exists('vendor/autoload.php')) {
 }
 */
 $loader = include __DIR__ . '/../vendor/autoload.php';
-$loader->add('a', __DIR__ . '/../src');
+$loader->add('get_header', __DIR__ . '/../src');
