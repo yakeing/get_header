@@ -16,7 +16,7 @@ This function is similar to the get_headers function
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/get_header/total.svg)](https://github.com/yakeing/get_header)
-[![Size](https://img.shields.io/github/size/yakeing/get_header/src/get_header/GetHeader.php.svg)](https://github.com/yakeing/get_header/blob/master/src/get_header/GetHeader.php)
+[![Size](https://img.shields.io/github/size/yakeing/php_saekv/src/php_saekv/SaeKV.php.svg)](https://github.com/yakeing/get_header/blob/master/src/get_header/GetHeader.php)
 [![tag](https://img.shields.io/github/tag/yakeing/get_header.svg)](https://github.com/yakeing/get_header/releases)
 [![Language](https://img.shields.io/github/license/yakeing/get_header.svg)](https://github.com/yakeing/get_header/blob/master/LICENSE)
 [![Php](https://img.shields.io/github/languages/top/yakeing/get_header.svg)](https://github.com/yakeing/get_header)
