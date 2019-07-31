@@ -32,3 +32,40 @@ deploy:
 after_script:
   - cd ../
   - pwd
+language: php
+dist: trusty
+sudo: false
+php:
+  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
+  - 7.3
+matrix:
+  fast_finish: true
+
+branches:
+  except:
+  - /^untagged/
+
+before_install:
+  - phpenv config-rm xdebug.ini
+  - composer self-update && composer install --no-interaction
+  - cd tests
+
+script: phpunit --stderr
+
+deploy:
+  provider: releases
+  api_key:
+    secure: ${GITHUB_TOKEN}
+  file_glob: true
+  file: directory/*.zip
+  file: directory/*.tar.gz
+  skip_cleanup: true
+  on:
+    tags: true
+
+after_script:
+  - cd ../
+  - pwd
