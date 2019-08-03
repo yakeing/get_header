@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "get_header": "src/"
+        "psr-4": {
+            "get_header\\": "src/"
         }
     },
     "require": {
