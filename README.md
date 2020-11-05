@@ -1,8 +1,8 @@
 # GET HTTP HEADER
 
-This function is similar to the get_headers function
+This function is similar to the get_headers function.
 
-` get_headers ` is recommended because it is more efficient
+` get_headers ` is recommended because it is more efficient.
 
 ### Travis CI badge
 
