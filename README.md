@@ -6,11 +6,11 @@ This function is similar to the get_headers function.
 
 ### Travis CI badge
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/get_header.svg?branch=master)](https://travis-ci.com/yakeing/get_header)
+[![Travis-ci](https://api.travis-ci.com/yakeing/get_header.svg?branch=main)](https://travis-ci.com/yakeing/get_header)
 
 ### codecov badge
 
-[![codecov](https://codecov.io/gh/yakeing/get_header/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/get_header)
+[![codecov](https://codecov.io/gh/yakeing/get_header/branch/main/graph/badge.svg)](https://codecov.io/gh/yakeing/get_header)
 
 ### Github badge
 
